@@ -1,0 +1,38 @@
+.content {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.hobby {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  width: 60%;
+  border: 1px solid #ddd;
+  border-radius: 15px;
+  padding: 15px;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  font-size: 1.2rem;
+  
+}
+
+.hobby img {
+  width: 100px;
+  padding-right: 20px;
+  display: block;
+  margin: auto 0;
+}
+
+.hobby h2 {
+  color: #333;
+  margin: 0;
+}
+
+.hobby p {
+  margin: 3px 0;
+}

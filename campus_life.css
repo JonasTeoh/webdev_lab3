@@ -1,0 +1,17 @@
+.campus-life {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  margin: 20px;
+}
+
+.campus-life h2 {
+  font-size: 2rem;
+  color: black;
+  margin-bottom: 15px;
+}
+
+.campus-life p {
+  margin-bottom: 20px;
+  text-align: justify;
+}

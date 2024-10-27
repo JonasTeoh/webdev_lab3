@@ -1,0 +1,23 @@
+nav {
+  background-color: lightgray;
+  color: #fff;
+  padding: 10px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+nav button {
+  background-color: #7d7d7d;
+  color: white;
+  padding: 14px 20px;
+  margin: 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+nav button:hover {
+  background-color: #45a049;
+}
