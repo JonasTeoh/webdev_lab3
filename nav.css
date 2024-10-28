@@ -6,6 +6,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: center;
+  padding-right: 107px;
 }
 
 nav button {
@@ -19,7 +20,7 @@ nav button {
 }
 
 nav button:hover {
-  background-color: #45a049;
+  background-color: #5e5e5e;
 }
 
 body {
